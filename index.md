@@ -13,6 +13,8 @@ Promoting excellence in education.
 - AI : Deep Learning (30 Hours)
 - A/B testing : How to perform Efficient A/B testing
 - LLMs : Basics of GenAI and LLMs with Applications and Hands-on 
+
+
 ## Contact Us
 Email: parekh.kunjesh73@gmail.com
 Phone: +91 7984885953
