@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Datalysis
+title: Datalysis 
 ---
 
 # Welcome to Datalysis India Ltd.
