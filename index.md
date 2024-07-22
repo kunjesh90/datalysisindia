@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Datalysis India Ltd.
+title: Datalysis
 ---
 
 # Welcome to Datalysis India Ltd.
@@ -11,8 +11,8 @@ Promoting excellence in education.
 - Excel : Learn Advanced Excel (10 Hours)
 - ML : Basics of Machine Learning with Case Studies(18 Hours)
 - AI : Deep Learning (30 Hours)
-- A/B testing : How to perform Efficient A/B testing
-- LLMs : Basics of GenAI and LLMs with Applications and Hands-on 
+- A/B testing : How to perform Efficient A/B testing (12 Hours)
+- LLMs : Basics of GenAI and LLMs with Applications and Hands-on (18 Hours)
 
 
 ## Contact Us
