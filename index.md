@@ -1,16 +1,18 @@
 ---
 layout: default
-title: Home
+title: Datalysis India Ltd.
 ---
 
 # Welcome to Datalysis India Ltd.
 Promoting excellence in education.
 
 ## Our Programs
-- Program 1
-- Program 2
-- Program 3
-
+- Basics of Statistics : Learn Basics of Statistics with Hands-on in R/Python/Excel (18 Hours)
+- Excel : Learn Advanced Excel (10 Hours)
+- ML : Basics of Machine Learning with Case Studies(18 Hours)
+- AI : Deep Learning (30 Hours)
+- A/B testing : How to perform Efficient A/B testing
+- LLMs : Basics of GenAI and LLMs with Applications and Hands-on 
 ## Contact Us
 Email: parekh.kunjesh73@gmail.com
 Phone: +91 7984885953
